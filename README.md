@@ -21,6 +21,7 @@ Solved LeetCode Problems
 | [0607-sales-person](https://github.com/S-Azim36/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/S-Azim36/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/S-Azim36/LeetCode/tree/master/0619-biggest-single-number) |
+| [1135-customers-who-bought-all-products](https://github.com/S-Azim36/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/S-Azim36/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/S-Azim36/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1523-capital-gainloss](https://github.com/S-Azim36/LeetCode/tree/master/1523-capital-gainloss) |
