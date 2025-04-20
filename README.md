@@ -27,3 +27,14 @@ Solved LeetCode Problems
 | [1161-project-employees-i](https://github.com/S-Azim36/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/S-Azim36/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1523-capital-gainloss](https://github.com/S-Azim36/LeetCode/tree/master/1523-capital-gainloss) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/S-Azim36/LeetCode/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/S-Azim36/LeetCode/tree/master/0168-excel-sheet-column-title) |
+<!---LeetCode Topics End-->
