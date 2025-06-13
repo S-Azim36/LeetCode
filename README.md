@@ -42,4 +42,5 @@ Solved LeetCode Problems
 | ------- |
 | [0184-department-highest-salary](https://github.com/S-Azim36/LeetCode/tree/master/0184-department-highest-salary) |
 | [0627-swap-salary](https://github.com/S-Azim36/LeetCode/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/S-Azim36/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
