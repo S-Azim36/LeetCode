@@ -37,4 +37,8 @@ Solved LeetCode Problems
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/S-Azim36/LeetCode/tree/master/0168-excel-sheet-column-title) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/S-Azim36/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
